@@ -209,7 +209,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
-[Axios.com]: https://axios-http.com/assets/logo.svg?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Axios.com]: https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white
 [Axios-url]: https://axios-http.com/ 
 [ReactNavigation.com]: https://reactnavigation.org/img/spiro.svg?style=for-the-badge&logo=nextdotjs&logoColor=red
 [ReactNavigation-url]: https://reactnavigation.org/
