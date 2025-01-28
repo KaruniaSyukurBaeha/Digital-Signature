@@ -213,5 +213,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [Axios-url]: https://axios-http.com/ 
 [ReactNavigation.com]: https://reactnavigation.org/img/spiro.svg?style=for-the-badge&logo=nextdotjs&logoColor=red
 [ReactNavigation-url]: https://reactnavigation.org/
-[ReactWebcam.com]: https://raw.githubusercontent.com/mozmorris/react-webcam/HEAD/Logotype%20primary.png
+[ReactWebcam.com]: https://img.shields.io/badge/ReactWebcam-00D8FF?style=for-the-badge&logo=webcam&logoColor=white
 [ReactWebcam-url]: https://www.npmjs.com/package/react-webcam
