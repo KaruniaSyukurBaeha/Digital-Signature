@@ -70,6 +70,8 @@ ViTrash is an advanced application designed to classify garbage into six categor
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Axios][Axios.com]][Axios-url]
+* [![React Navigation][ReactNavigation.com]][ReactNavigation-url]
+* [![React Webcam][ReactWebcam.com]][ReactWebcam-url]
 ### Backend
 
 * [![Next][Next.js]][Next-url]
@@ -209,3 +211,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [JQuery-url]: https://jquery.com 
 [Axios.com]: https://axios-http.com/assets/logo.svg
 [Axios-url]: https://axios-http.com/ 
+[ReactNavigation.com]: https://reactnavigation.org/img/spiro.svg
+[ReactNavigation-url]: https://reactnavigation.org/
+[ReactWebcam.com]: https://raw.githubusercontent.com/mozmorris/react-webcam/HEAD/Logotype%20primary.png
+[ReactWebcam-url]: https://www.npmjs.com/package/react-webcam
