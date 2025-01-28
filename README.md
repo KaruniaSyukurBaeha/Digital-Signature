@@ -11,7 +11,7 @@
   <h3 align="center">ViTrash</h3>
 
   <p align="center">
-    Solusi Cerdas untuk Pemilahan Sampah Berbasis Kecerdasan Buatan (AI)”
+    "Smart Solution for Waste Classification Based on Artificial Intelligence (AI)”
   </p>
 </div>
 
