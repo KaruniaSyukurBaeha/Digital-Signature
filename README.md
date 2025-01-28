@@ -209,9 +209,9 @@ Use this space to list resources you find helpful and would like to give credit 
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
-[Axios.com]: https://axios-http.com/assets/logo.svg
+[Axios.com]: https://axios-http.com/assets/logo.svg-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Axios-url]: https://axios-http.com/ 
-[ReactNavigation.com]: https://reactnavigation.org/img/spiro.svg
+[ReactNavigation.com]: https://reactnavigation.org/img/spiro.svg-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [ReactNavigation-url]: https://reactnavigation.org/
-[ReactWebcam.com]: https://raw.githubusercontent.com/mozmorris/react-webcam/HEAD/Logotype%20primary.png
+[ReactWebcam.com]: https://raw.githubusercontent.com/mozmorris/react-webcam/HEAD/Logotype%20primary.png-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [ReactWebcam-url]: https://www.npmjs.com/package/react-webcam
